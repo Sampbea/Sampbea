@@ -1,4 +1,5 @@
 👋 Oie
+
 Eu sou Beatriz Sampaio, uma jovem Analista de dados que é entusiasta pela analise dos dados e tecnologia, venho sempre me dedicando a me desenvolver mais para adquirir mais habilidades.
 Possuo quase 3 anos de experiência na área, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias e analises.
 
