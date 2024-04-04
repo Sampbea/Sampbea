@@ -1,6 +1,6 @@
 👋 Oiie
 
-Eu sou Beatriz Sampaio, uma jovem Data Analytics que é entusiasta pela análise dos dados e tecnologia, venho sempre me dedicando a me desenvolver mais para adquirir e evoluir minhas habilidades.
+Me chamo Beatriz e sou uma jovem em  Data Analytics, entusiasta pela análise dos dados e tecnologia, venho sempre me dedicando a me desenvolver mais para adquirir e evoluir minhas habilidades.
 Possuo quase 3 anos de experiência na área, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias e analises.
 
 “Seu foco determina sua realidade.” —Qui-Gon Jinn
